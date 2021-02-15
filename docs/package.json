@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "version": "0.0.1",
+  "description": "HCS Docs for Staff",
+  "main": "index.js",
+  "authors": {
+    "name": "Jeff Kranenburg",
+    "email": "jeff.kranenburg@hamiltonchristian.school.nz"
+  },
+  "repository": "https://github.com/HamiltonChristianSchool/docs/docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
