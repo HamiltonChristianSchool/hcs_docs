@@ -15,6 +15,8 @@ module.exports = {
   ],
 
   themeConfig: {
+    title: 'HCS Intranet',
+    description: 'HCS internal docs for Staff',
     docsDir: 'docs',
     repo: 'HamiltonChristianSchool/hcs_docs',
     sidebar: [
