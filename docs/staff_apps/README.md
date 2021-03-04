@@ -1,11 +1,10 @@
 ---
-home: true
-title: Home
-heroImage: /images/logo.png
-tagline: HCS internal docs for Staff
+title: null
+tagline: null
 actionText: Quick Start →
+heroImage: /images/logo.png
 actionLink: /guide/
-#navigation: true
+navbar: true
 features:
 - title: Setup Printers
   details: Feature 1 Description

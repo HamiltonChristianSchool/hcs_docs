@@ -1,0 +1,9 @@
+# <img src="/images/logo.png" style="width: 70px" alt="logo" />&nbsp;&nbsp;HCS Internal Staff Docs
+
+This documentation serves as an intranet for Hamilton Christian School.  
+
+Here you will find information about the procedures of the school and find what to do when you are not sure about something.
+
+::: tip Information
+This information will in time replace the staff handbook and will be kept up to date with changes as needed.
+:::
