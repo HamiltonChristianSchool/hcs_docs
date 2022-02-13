@@ -4,4 +4,6 @@ next: false
 prev: false
 ---
 
-To be added
+# Quick Setups
+
+## To be added
